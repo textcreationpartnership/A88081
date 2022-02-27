@@ -1,0 +1,558 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Samaritans box newly opened: powring his oyl into the wounds of a distressed kingdome; and communicating wholsom advice to all estates, especially to his Excellency Sir Thomas Fairfax, the Honourable Councel of War, together with the Agitators of the Army. Wherein is laid down 1. The particular causes of all our calamities. 2. Divers considerations tending to moderation. 3. Rules to prevent growth of evils. 4. Assured means to procure peace, and put an end to all our troubles. / By William Levitt.</title>
+            <author>Levitt, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88081</idno>
+            <idno type="STC">Wing L1829</idno>
+            <idno type="STC">Thomason E416_4</idno>
+            <idno type="STC">ESTC R204470</idno>
+            <idno type="EEBO-CITATION">99863960</idno>
+            <idno type="PROQUEST">99863960</idno>
+            <idno type="VID">116178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116178)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Samaritans box newly opened: powring his oyl into the wounds of a distressed kingdome; and communicating wholsom advice to all estates, especially to his Excellency Sir Thomas Fairfax, the Honourable Councel of War, together with the Agitators of the Army. Wherein is laid down 1. The particular causes of all our calamities. 2. Divers considerations tending to moderation. 3. Rules to prevent growth of evils. 4. Assured means to procure peace, and put an end to all our troubles. / By William Levitt.</title>
+                  <author>Levitt, William.</author>
+               </titleStmt>
+               <extent>[2], 16, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James and Joseph Moxon, at the signe of the Sugar loaf in Hourns-ditch,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Nouem: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Causes --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:116178:1"/>
+               <pb facs="tcp:116178:1" rendition="simple:additions"/>
+               <hi>The Samaritans Box Newly opened: Powring his</hi> Oyl <hi>into the wounds of a diſtreſled Kingdome; And communicating wholſom advice to all Eſtates, eſpecially to his Excellency Sir</hi> Thomas Fairfax, <hi>the Honourable Councel of War, together with the Agita<g ref="char:EOLhyphen"/>tors of the</hi> ARMY. Wherein is laid down <list>
+                  <item>
+                     <hi> 1.</hi> The particular cauſes of all our calamities. </item>
+                  <item>
+                     <hi>2.</hi> Divers Conſiderations tending to Moderation. </item>
+                  <item>
+                     <hi>3.</hi> Rules to prevent growth of Evils. </item>
+                  <item>
+                     <hi>4.</hi> Aſſured means to procure Peace, and put an end to all our Troubles.</item>
+               </list>
+            </p>
+            <p>
+               <hi>By WILLIAM LEVITT.</hi>
+            </p>
+            <q>
+               <p>I ſpeak it to your ſhame, is there not a wiſe man among you, no not one that can Judge between his brethren, but a brother go<g ref="char:EOLhyphen"/>eth to law with a brother, &amp; that under Inſidels. </p>
+               <bibl>
+                  <hi>1 Cor. 6. 5. 6.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>The Prophet is a Fool, and the ſpirituall man is mad, for the mul<g ref="char:EOLhyphen"/>titude of thine Iniquity, therefore the hatred is great. </p>
+               <bibl>
+                  <hi>Hoſ. 9. 7.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Let your Moderation bee knowne to all men, the Lord is at hand. </p>
+               <bibl>
+                  <hi>James 3. 17.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p> Beati Pacifici. </p>
+               <bibl>
+                  <hi>Matth. 5. 9.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON, Printed by</hi> James <hi>and</hi> Joſeph Moxon, <hi>at the ſigne of the</hi> Sugar loaf <hi>in</hi> Hou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ-ditch. <hi>1647.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116178:2"/>
+            <pb n="1" facs="tcp:116178:2"/>
+            <opener>
+               <salute>Gentlemen and loving Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat due and Dear reſpect I ow to you all, together with that Obligation lies upon me, in regard of God and my Native Countrey, enforces this un<g ref="char:EOLhyphen"/>dertaking: and indeed ſuch is my intereſt in, and affection to you, ſo far as God hath made you Inſtrumentall to clear the Kingdom of thoſe Catterpillers that threatned con<g ref="char:EOLhyphen"/>ſumption both of Church and State, that I deſire death, rather then detract the leaſt <hi>iota</hi> of your noble deſervings: ſuch ha<g ref="char:EOLhyphen"/>ving been the foot-ſteps of God with you, that no power could ſtand before the aw and Majeſty where with your Army was clad: witneſſe thoſe many matchleſſe Victories and Succeſſes obtained by Gods bleſſing upon your un-defatigable and un<g ref="char:EOLhyphen"/>daunted reſolutions, ſo that generations to come may bleſſe God for you, and from whom, under God, the well-affected receive their preſent protection.</p>
+            <p>Notwithſtanding, ſuch are the various occurrences of Church and State, that all the vaſt expence of Treaſure and Blood, and all your unparalleld pains, to deliver this poore Kingdom from oppreſſion and Tyranny, is like to be utterly loſt, if God unexpectedly ſtrike nor in, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nders by may ſay or ſee any thing.</p>
+            <p>I dare not have the leaſt thought of any ill Intent, in your meaneſt Inſtrument; yet our diviſions and diſtractions are ſo great, their conſequences ſo deſtructive, that your faithfulleſt <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ends fear overthrow of all.</p>
+            <p>Time was, when our externalls only were corrupted, the diſeaſe not half ſo dangerous; but now our very Vitalls are in<g ref="char:EOLhyphen"/>fected, and we become more deſtructively incurable. The
+<pb n="2" facs="tcp:116178:3"/>
+difference is not now between the Malignant and well-affe<g ref="char:EOLhyphen"/>cted; but the envyous man hath ſowed Ta<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es among the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, who under God, are the life and being of a Nation; Nay, and theſe unhappy j<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrs in a time when all expected Peace! Thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath been the ſtratagem of Satan from the firſt riſe of our unhappy commotions, to ſet the Godly together by the ears; he well knowing the deſigne would not ſtand with his honour: neither could he ſo eaſily effect to divide his own, they being wiſer in their generations then the children of light.</p>
+            <p>I have adventured his prevention, either by an endeavour of re<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uniting the diſſenting parties, <hi>(viz.)</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Presbyterian and Independant; or at leaſt, a moderation of that violence which is too too apparant in each, when prevalent. And al<g ref="char:EOLhyphen"/>though I may meet not only with miſ<g ref="char:EOLhyphen"/>apprehenſions, but harſh Cenſures for my pains, and peradventure accounted a Self-ſeeker, although (impartially conſidered) there's little cauſe. I am in this, as in all other my publique undertakings, armed againſt both good and evill reports; and would willing<g ref="char:EOLhyphen"/>ly have ſhunned that occaſion, had not the Ordinance of Parlia<g ref="char:EOLhyphen"/>ment forced me to be more publique then otherwiſe I would.</p>
+            <p>I thank my God, I never was ſiniſter, or do I at all plead for imployment: I am not ſo low wintered to ſeek an Office, (I abhorre the thoughts) being better able to paſſe by perſonall injuries, then to ſee general deſpite caſt upon the well-affected, who for ſome circumſtantiall difference, are generally caſt out of places of Honour and Truſt, or ſhamefully neglected; in whoſe behalf, I have taken upon mee this thankleſſe task: In proſecution whereof,</p>
+            <p>I ſhall lay down,
+<list>
+                  <item>1. <hi>The particular procuring Cauſes of all our Cala<g ref="char:EOLhyphen"/>mities.</hi>
+                  </item>
+                  <item>2. <hi>Divers Conſiderations tending to moderation.</hi>
+                  </item>
+                  <item>3. <hi>Rules to prevent growth of diſtempers.</hi>
+                  </item>
+                  <item>4. <hi>Certain approved means, to put an end to all our Troubles.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:116178:3"/>
+Only let me premiſe that I deteſt to ſpeak one word in be<g ref="char:EOLhyphen"/>half ofany man of publique diſ-affection: or juſtifie the illegal proceedings of any, of what Judgment ſoever, utterly diſclaim<g ref="char:EOLhyphen"/>ing that giddy ingagement, although divers honeſt men were drawn in to it: and condem<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that unparalled peece of vio<g ref="char:EOLhyphen"/>lence offered the Parliament ſo diſhonourably permitted, nei<g ref="char:EOLhyphen"/>ther the Actors enquired after, or the actions declared againſt; I mean when the Votes were forced, by which the ſecond Mi<g ref="char:EOLhyphen"/>litia ſat the ſecond time: neither do I in the leaſt own the de<g ref="char:EOLhyphen"/>clining and neglect of our Independant friends, who had both in Militia and Command ſufficiently declared their fidelity: But as I ſaid, in behalf of ſuch as have been found faithfull, and are either by miſ-repreſentation, or only for that they are Preſ<g ref="char:EOLhyphen"/>byterian, diſhonourably intreated; being willing to own a Godly man of either Judgement.</p>
+            <div n="1" type="part">
+               <head>1. <hi>For the Cauſes of our Calamities.</hi>
+               </head>
+               <p n="1">1. The originall and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oot of all our maladies, as they pro<g ref="char:EOLhyphen"/>ceed from God, is ſin, both Nationall and perſonall: as pride, prophaneneſſe, Idolatry, uncleanneſſe, fullneſſe of bread, Con<g ref="char:EOLhyphen"/>tempt of the poor, oppreſſion, violence, light eſteem of the Goſpel, formality, unthankfullneſſe, unſuitable walking with God in the midſt of manifold mercies and deliverances; for theſe things the land mourn.</p>
+               <p n="2">2. Carnall Confidence, too much truſting in an arm of fleſh, one Idolizing a King, another a Parliament, a third an Army, a fourth a Synod, (in reference to Church ſettlement peradventure) a fifth a Common Councell: God now lets us ſee all is vain, He infatuates our Councels, ſhakes our founda<g ref="char:EOLhyphen"/>tions, ſo that our Prophets are as in the dayes of <hi>Hoſea,</hi> turned Fooles, the ſpirituall man is mad, all our Champions from whom we expected deliverance, become rotten reeds, all tell<g ref="char:EOLhyphen"/>ing us there is no truſt in ſecundary cauſes: God hath been, God will be our Reformer, our Deliverer: He it is muſt ſpeak Peace, and he only muſt ſettle the affairs of Church and State, that his Name may have more praiſe.</p>
+               <p n="3">3. Idolizing our own opinions, though never ſo mon<g ref="char:EOLhyphen"/>ſtrous,
+<pb n="4" facs="tcp:116178:4"/>
+every one hugging his own Apes, becauſe they are his; and hence is it not only the Godly Learned, but the ballance of the Sanctuary are ſo much ſleighted.</p>
+               <p n="4">4. Corrupt men in places of Honour and Truſt, ſeeking themſelves, not the publique.</p>
+               <p n="5">5. Ingratitude, and more then ordinary incivility and diſ<g ref="char:EOLhyphen"/>honour offered thoſe that under God have delivered us from our common enemies, not taking care either for their payment, or making ſufficient proviſion for Indempnity, or Tender Con<g ref="char:EOLhyphen"/>ſciences, before endeavours of disbanding.</p>
+               <p n="6">6. Jealouſies, miſ-underſtandings, and miſ-repreſentations of each others words and actions.</p>
+               <p n="7">7. From our corrupt hearts, each party being partiall to it ſelf; the Presbyterian ſleighting and outing men of Indepen<g ref="char:EOLhyphen"/>dant principles, although never ſo faithfull and Godly; the Independant as unworthily ſleighting and outing all that cor<g ref="char:EOLhyphen"/>reſpond not with them, although otherwiſe without excepti<g ref="char:EOLhyphen"/>on: Certainly theſe warrings and jarrings proceeds meerly from our Luſts, and its in vain to expect peace ſo long as any one party ſeeks to ſet up it ſelfe.</p>
+               <p n="8">8. Too much indulgency to Delinquent Clergy, who in all places rake up their old Reliques, and poyſon the people with their Egyptian hotch-potch, imboldened hereunto by hope of generall Tolleration.</p>
+               <p n="9">9. Ignorance of that ſmall difference thats between Preſ<g ref="char:EOLhyphen"/>byterian and Independant diſcipline. Certainly if the gene<g ref="char:EOLhyphen"/>rallity of each knew the Government to be one, only in point of appeal, as indeed it is; they would never be ſo mad to emu<g ref="char:EOLhyphen"/>late: they muſt have both Paſtors, Teachers, Elders, Deacons, the ſame Officers, the ſame Ordinances, the ſame Church Cen<g ref="char:EOLhyphen"/>ſu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e: to ſpeak t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uth, the Independent Churches are all Presby<g ref="char:EOLhyphen"/>terian, but Presbyterian as now ſtated, not Independent; yet eaſily might be reconciled if the Lord would open our eyes, and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cline ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hearts to Love and Peace.</p>
+               <p n="10">10. Want of Chriſtian affection, which breeds ill conſtru<g ref="char:EOLhyphen"/>ctions on each ſide. If a Godly Miniſter ſhall zealouſly preſſe on to that government to which his principles and Conſcience
+<pb n="5" facs="tcp:116178:4"/>
+leads, without which, he cannot be found faithfull, this muſt be called rigor, malice, violence, &amp;c. both charging that upon violence, thats often done out of pure zeal to God and his Cauſe.</p>
+               <p n="11">11. Playing ſo long Faſt and Looſe with the King: Cer<g ref="char:EOLhyphen"/>tainly the expence of leſſe Treaſure and Blood, would have ſer<g ref="char:EOLhyphen"/>ved turn, if wee had dealt roundly with him at firſt; neither would our warrs have worn out one Generall; the truth is, we ſought him ſo long, till we have almoſt loſt the Kingdom; beleeve it He ſhoots well in the Long Bow; yet let no man miſtake me, I wiſh his Majeſty as much honour and happineſſe as he that peradventure may ſhoot his firſt bolt; but I wiſh alſo for his and his poſterities and kingdoms good, that ſpeedy pro<g ref="char:EOLhyphen"/>viſion may be made for the Kingdoms Indempnity and future ſecurity, without which, we have been fighting to ſmall pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p n="12">12. Former ſuffering ſo many baſe ſcurrilous ſcandalous Pamphlets, ſo frequent about City and Countrey, nurſing cor<g ref="char:EOLhyphen"/>rupt humors in malignat and diſcontented ſpirits, and deluding abundance of ignorant people, bringing the Vulgar ſort gene<g ref="char:EOLhyphen"/>rally into diſlike both of Parliament and Army.</p>
+               <p n="13">13. Permitting ſo many corrupt Magiſtrates, and notori<g ref="char:EOLhyphen"/>ous Delinquents in offices of Truſt, in moſt parts of the King<g ref="char:EOLhyphen"/>dom, who have (as much as in them lies) made the well-af<g ref="char:EOLhyphen"/>fected objects of their revenge.</p>
+               <p n="14">14. Accounting all Presbyterians that are not Indepen<g ref="char:EOLhyphen"/>dants, and all Independants that are not Presbyterians, when the major part is owned by neither, nor ſit for Communion with either; nay, indeed are enemies to both: the Indepen<g ref="char:EOLhyphen"/>dant reckoning all Prophane to the Presbyterian; the Presby<g ref="char:EOLhyphen"/>terian accounting all men of rotten and unſound judgements Independants; and there is a great fault in both, for their in<g ref="char:EOLhyphen"/>dulgencie one to the prophane, and the other to the erronious in not declaring againſt them.</p>
+               <p n="15">15. The Pride, Covetuouſneſſe and Prophaneneſſe of the generality of our Clergy, who have thereby cauſed many (o<g ref="char:EOLhyphen"/>therwiſe well-affected) not onely tobecome enemies to go<g ref="char:EOLhyphen"/>verment
+<pb n="6" facs="tcp:116178:5"/>
+but even to lothe the Ordinances of God for their ſakes: yet bleſſed be God wee have as many Godly learned whoſe hearts mourn in ſecret for theſe things, as any Nation under the Sun.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. <hi>Divers Conſiderations tending to Moderation.</hi>
+               </head>
+               <p n="1">1. Conſider the Presbyterian hath gon hand in hand with you, againſt the Common enemy, have neither ſpared perſon or purſe; but have been as prodigall of their bloods for you, as you for them; I mean the well-affected: therefore let us take heed of that fooliſh paſtime of taking one another by the beard, &amp;c.</p>
+               <p n="2">2. Remember you cryed out on them that caſt out your Independent friends, for non-correſpondency in opinion: Why then will ye write after ſo foul a Coppy? I dare preſume you caſt out many that were heartily grieved for that miſ-car<g ref="char:EOLhyphen"/>riage: Thou that ſayeſt a man ſhould not ſteal, wilt thou com<g ref="char:EOLhyphen"/>mit Sacriledge?</p>
+               <p n="3">3. Although all Independents are not Saints, nor all Saints Independents; yet you pro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe Sanctitie, and I hope, not in vain; and if ſo, be mercifull as your heavenly Father is: and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emember the Apoſtle <hi>James</hi> tells us all, that <hi>the Wiſdom that is from above, is firſt pure, then peaceable, gentle, eaſie to be in<g ref="char:EOLhyphen"/>treated, full of mercy, and good fruits, without judging and hy<g ref="char:EOLhyphen"/>pocriſie. James</hi> 3. 17.</p>
+               <p n="4">4. Conſider the things for which many are now condem<g ref="char:EOLhyphen"/>ned, was (when acted) very diſputable, not things ordinary in our Kingdom, for an Army not to diſ-band when com<g ref="char:EOLhyphen"/>manded by the State, by whom raiſed, imployed, and from whom they received their power and entertainment; the de<g ref="char:EOLhyphen"/>manding the Impeached Members with a menace; the change of the Militia in like manner; the ſeizing the Kings perſon, and diſpoſing of him contrary to command, &amp;c. things which men of ordinary capacities could ſee neither Law nor Preſi<g ref="char:EOLhyphen"/>dent for; nay, of that nature that I beleeve puzled both Par<g ref="char:EOLhyphen"/>liament and your ſelves to accomodate: Your beſt plea then <hi>neceſſitas non habet:</hi> although bleſſed be God well blown
+<pb n="7" facs="tcp:116178:5"/>
+over: and although men wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed you never ſo well, and your intentions were never ſo good, yet many of your beſt f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iends were dubicus: now in ſuch caſes beſt conſtructions ſhould be made of mens diſp<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es and actions: and if when ſuch an Army move toward ſuch a conſiderable City and Ga<g ref="char:EOLhyphen"/>riſon as London then was, men were willing to be put into a capacity to receive Friend or Foe, Certainly they might, they ought to do it, and remain your Friends, much leſſe be accoun<g ref="char:EOLhyphen"/>ted <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aytors; eſpecially men of known ſidelity and truſt, not guilty o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> miſ-demeanour: you may pleaſe to take notice, at that time the City was utterly out of all military capacity, their Commanders all ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by change of the Militia, and indeed had not (the power by which they ſat, <hi>viz.)</hi> thoſe forced Votes, been queſtionable, which was one grand cauſe why myſelf and divers others declined the buſineſſe; the law of God, Nature and Nations, would have rendred them ridiculous, and they had certainly ſwerved from the principles either of So<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldiers or ſen<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le Creatures, had they neglected a buſineſſe of ſuch concern<g ref="char:EOLhyphen"/>ment; If any had any further deſigne, I will not open my mouth in their defence: I am ſure when the queſtion was put to the Militia, they proteſted againſt any further proceedings, Calling God to witneſſe their Integrity.</p>
+               <p n="5">5. Conſider <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear of Non enjoyment of your own liberties, eſtates, &amp;c. was one grand cauſe of your non di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>banding, and might not the Cry upon like reaſon, put themſelves in a poſture, without breeding <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o much ill blood? You feared all in the Parliament were not your friend<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; the City that all in the Army neither were or could be expected fai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull; whether they might have commanded their <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommanders at the ſight of Bo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty, who knew? (Opportunity makes a Theefe) However, God be thanked for ſo reall a Remonſtance to the cont<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, as neither we nor you could promie.</p>
+               <p n="6">6. That that gave you entrance into the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, was the good affection of the Citizens, who would not engage againſt you, who are now put into the ſcale with ne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and malignants, who oppoſed you moſt.</p>
+               <p n="7">7. In <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idged proceedings you imi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te the Malignant, not
+<pb n="8" facs="tcp:116178:6"/>
+the Godly party of the Presbyterians, who were much grieved at that ſuddain outing of your and our Independent friends.</p>
+               <p n="8">8. Conſider you are now upon the Pinacle of temptation; A man is never tryed till he hath power to do good or hurt, to be mercifull or oppreſſive; the eyes of the whole Chriſtian world is upon you. Suppoſe ye were naked, and thoſe ye now look upon as enemies, were armed: Thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k upon that good old rule, <hi>What ever ye would men ſhould doe to you, doe ye to them, for this is Law and Prophets.</hi>
+               </p>
+               <p n="9">9. Hereby ye exaſperate the ſpirits of Neuters and Malig<g ref="char:EOLhyphen"/>nants, who would be glad of opportunity to bee avenged both upon you and the Presbyterian Godly, and who onely wait a turn of the wheele, now by dealing unworthyly with the Godly party, although different in Judgement, you give but occaſion of more violence if opportunity ſerve, unleſſe God be the more mercifull, the breach will be then more wide then ever.</p>
+               <p n="10">10. This cauſes men to ſay, You ſeek your ſelves, not the publique, when men of Gallantry and Fidelity, (otherwiſe without exceptions) are neglected, becauſe not of opinions with you in all things; and putting into place of Honour and Truſt, men of ſiniſter and unworthy principles, ſome of them who (to my knowledge) never lent Ten groats freely to the publique, either hazarded life or fortune in the Kingdoms cauſe, or could (till very late) give you a good word, while many neglected have pleaded your Cauſe before God and man, when you were at greater diſtance and leſſe ſtrength: and let me tell you, in ſuch generall negotiations you were better ſpare ten knaves then deal unworthily with one honeſt man. It is true, the City of late have kept their purſes, whatſoever is ſaid to the contrary, not being ſo able as formerly the well-affected in it; having had divers occaſions of weakning, yet peradventure ſome others have too unworthily dealt this way; doubtleſſe <hi>Nabal</hi> dealt as unworthily with <hi>David,</hi> and it never repented him to ſpare the Churls blood.</p>
+               <p n="11">11. Give the Presbyterians their due, although they neg<g ref="char:EOLhyphen"/>lected your and their Independant friends, yet they loved
+<pb n="9" facs="tcp:116178:6"/>
+them better then to ſend them by Troops (as it were) into pri<g ref="char:EOLhyphen"/>ſon: therefore take heed while ye plead againſt perſecution and tyranny, you your ſelves act not that part.</p>
+               <p n="12">12. Did your Maſter the Parliament forgive you ten thou<g ref="char:EOLhyphen"/>ſand talents, when ye refuſed to disband, ſeized the Kings per<g ref="char:EOLhyphen"/>ſon, changed the Militia, demanded the impeached members with a menace, and will you pull your poore brother by the throat for an <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undred pence, for one act, yea ſo diſputable, they acting by Command, you contrary? Gentlemen, I muſt deal plainly with you, I cannot, I may not, I dare not to ſpeak Souldier-like, I will not flatter; and I am conſident I ſpeak to thoſe that regard more the reproof of a friend, then the flattery of a foe.</p>
+               <p n="13">13. This makes Religion ridiculous, in that there is no for<g ref="char:EOLhyphen"/>bearing one another, not a wiſe man amongſt us to moderate, but we muſt jar before the uncircumciſed, that would gladly ſee us both ruined: for ſhame let not this be told in <hi>Gath,</hi> or publiſhed in <hi>Askelon:</hi> Let not the daughters of the Philiſtims rejoyce in our diviſions. What, ſhall wee now at laſt, that have been joyning againſt the Common enemys, become the devils Pack horſes to drive on the deſigne of him and his? God forbid: What (ſay they) is this your harmleſſe Army? Is this your Reformation? Have we not a Church and State well ſetled? Is this the fruits of your Faſtings, and Prayers? theſe are your brethren the Saints; Marry God ſend us a King upon any termes. This is the Language of your and our e<g ref="char:EOLhyphen"/>nemies at home and abroad; and I verily beleeve our diviſi<g ref="char:EOLhyphen"/>ons adds more to the ſtrength of Antichriſts Kingdom, then all his Champions; and I do as verily beleeve, that he hath a competent number both in City and Army, <hi>(viz.)</hi> Jeſuits, that are the fomenters of this miſchief; God grant the Parliament be clear of them.</p>
+               <p n="14">14. Conſider how wide a dore our domeſtick diſſentions ſets open to a Forreign Adverſary: Certainly, but that God unexpected and undeſervedly on our parts hath engaged them one againſt another, we had heard more of them ere this.</p>
+               <p n="15">15. Take notice the hand of God is upon us, he's plead<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:116178:7"/>
+with us by his Judgments: the ſword hath devoured much fleſh, and ſtill threats his peſtilential arrows are flying about us, ſtriking on the right and leſc hand, and although the ſea<g ref="char:EOLhyphen"/>ſon promiſe better then a famine, yet price of bread corn &amp;c. is ſach, as that the poor are not a little pincht: I Gods con<g ref="char:EOLhyphen"/>troverſie on foot, and ſhall we provoke him by our unnatural conte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions? I look upon the jarrings of the godly, as a ſpi<g ref="char:EOLhyphen"/>ritual and heavie Judgment: Surely our hearts are divided from God, therefore he divides us. Let us not be in enſible of his hand, and take heed of biting one another, leaſt we be devoured one of another,</p>
+               <p n="16">16. Violence and Oppreſſion are grand cauſes of Civil commotions and inſurrections: believe it, the whole King<g ref="char:EOLhyphen"/>dom is in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ardly diſturbed: Oppreſſion makes a wiſe man mad. Our ſtudiet erefore ſhould be, to eaſe, not burthen; if fire break out, its not eaſily quenched.</p>
+               <p n="17">17. Shall Pagans, Papiſts, Heathens and Tu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks agree, and ſhall Chriſtians be the onely men of contention? Let us not give occaſion to blaſpheme.</p>
+               <p>Are the arch enemies of God and Kingdom overcome, and ſhall we now breatne out threats and ſlaughters one againſt another? Remember the Apoſtle ſaith, <hi>If any man luſt to be contentious, the Churches of Chriſt have no ſuch cuſtom.</hi>
+               </p>
+               <p n="18">18. Conſider you have a har<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> task to undergo; I believe in the accompliſhment whereof, you I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave need enough of the aſſiſtance of ali the well-affected in the Kingdom: work which would have been carryed on with les difficulty, while the affections of the Kingdom were warmer toward the Par<g ref="char:EOLhyphen"/>liament, and you alſo, then now.</p>
+               <p n="19">19. Hereb, you ſad the hearts of many faithful Inſtruments of Church and S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and diſcourage divers of thoſe you em<g ref="char:EOLhyphen"/>ploy <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with ife: a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miniſter much matter of mirth to a l<g ref="char:EOLhyphen"/>malignants, to ſee <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch now ſlig<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted by you, who were ever envied by them for their activity and ſidelity.</p>
+               <p n="20">20. Fear of violenc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both from within and without, cau<g ref="char:EOLhyphen"/>ſed the Ci<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to endevour a capacity of deſence; no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this being over ſufficient ſatisfaction to Saints, is vindication of their own
+<pb n="11" facs="tcp:116178:7"/>
+innocencie, not revenge. Have ye done all for God? Truſt all with God.</p>
+               <p n="21">21. Forget not W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at the Citie hath done for you and the Kingdom: A man will ever be tender of a friend, and make beſt conſtiuctions of his actions: Suppoſe that with <hi>Diogenes</hi> it hath once in its ſiſe gone backward, me thinks that ever forward<g ref="char:EOLhyphen"/>neſs and freeneſs that hath been found it it, ſhould cover one fault.</p>
+               <p n="22">22. Herein you ſeem to pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fer ſhaddows before ſubſtance: Is there any man ſlighted that is Independent, though never ſo erroneous and unſound in his opinion? while men though ne<g ref="char:EOLhyphen"/>ver ſo O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thodox, if diſſering in that punctillo, are neglected: ſo that it ſeems a leſs matter to be an Anabaptiſt, Antinomian, Anti Scripturian, Anti Sabatharian, an Anti-God, or an An<g ref="char:EOLhyphen"/>ti Chriſt, then a Semi-Anti Independent.</p>
+               <p n="23">23. This mightily corrobocats and conſirms all the Roman Catholick crew: nay the prophane wretches in the world are encouraged hence to abominate our Religion, and the very name of it; while they are unanimous, though never ſo Ido<g ref="char:EOLhyphen"/>lauous and prophane; and we thus extremely fill'd with con<g ref="char:EOLhyphen"/>tentions and diviſions.</p>
+               <p n="24">24. Conſider harſh dealing from friends goes harſh, goes neereſt the heart: What thou my familiar friend that ſate at my Table, that are my bread, with whom I took ſweet coun<g ref="char:EOLhyphen"/>ſel, with whom I ven uredlife and fortune may this Citie well ſay, eſpecially the well affected in it: Truly ſhould Cavaliers and Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ignants oppoſe the godly, it were no wonder; for wolves to <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vour ſheep is natural, but it would aſtoniſh a man to ſee one ſheep ſhouldering and devouring another; I am ſure our ſhepherd will not well like it.</p>
+               <p n="25">25. Let the Cities former ſervice prevail ſo far with you, as to b<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſh: he th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of billerting upon i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s very fit the ſou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dier ſhould have his pay: but I hope the Parliam<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt both can and have made better provi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion then billet, of Ordinances are not obeyed where men are able, let them ſuffer diſtreſs: for want of which, many diſ affected laugh at ſuch, whoſe free<g ref="char:EOLhyphen"/>neſs and obedience to the State, hath diſ inabled them to do as
+<pb n="12" facs="tcp:116178:8"/>
+formerly, while others malignantly diſpoſed are much in ar<g ref="char:EOLhyphen"/>rear, with whom ſpeedy and ſtrict courſe ſhould be taken: but the houſes and ſhops of Citizens are fit to entertain better gueſts then common ſouldiers.</p>
+               <p n="26">26. Laſtly, although not the leaſt conſideration, Poor bleeding dying Ireland which lies gaſping for our help, while we lie c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſleſly contending one with another: Wo be to them that are cauſe of that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad retard of their relief, I believe if God call him once to account, who ever it be, it were better that a milſtone were hang'd about his neck, and he caſt into the Sea, then to bean Inſtrument of ſhedding ſo much Chriſtian blood, we<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l is it while we in effect ſay it ſhall be deſtroyed, the Lord ſaith no, in the abſence of humane help I will ſave and deliver it. Friends, I pray God grant when he makes Inquiſition, that Irelands blood be not charged upon Englands account, for all we do is to talk of their relief; we ſay to the hunger ſtar<g ref="char:EOLhyphen"/>ved, be ye warmed, and be ye filled, and to the naked, be ye clothed, and to the wounded, be ye healed; but who admini<g ref="char:EOLhyphen"/>ſters help? Surely we are all Prieſts and Levites.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3. <hi>Remedies to prevent growth of future evils.</hi>
+               </head>
+               <p n="1">1. Take heed of too much liſtning to whiſpering Inform<g ref="char:EOLhyphen"/>ers, who do more hurt in private, then ever they'l do good to publique; eſpecially give them no ear when they ſtrike at men of publike Truſt, fidelity, and ſpirit.</p>
+               <p n="2">2. In placing or diſplacing, conſult not with men of ſelf-iſh and peeviſh ſpirits, although otherwiſe godly: he is fitteſt to adviſe withal, that loves a godly man, let him be Presbyterian or Independent.</p>
+               <p n="3">3. Let not a ſingle report ſerve in point of publike con<g ref="char:EOLhyphen"/>cernment.</p>
+               <p n="4">4. Judge no man by a particular word or action, that gene<g ref="char:EOLhyphen"/>rally hath appeared faithful.</p>
+               <p n="5">5. Make beſt conſtructions of the words and actions of any godly man, of what opinion ſoever in circumſtantialis.</p>
+               <p n="6">6. Condemn no man till called to anſwer his cha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge, nor g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve much he<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to one that gapes for preferment.</p>
+               <p n="7">
+                  <pb n="13" facs="tcp:116178:8"/>
+7. If the Parliament would acquieſce in their own Judge<g ref="char:EOLhyphen"/>ment and determinations, it would prevent much diſcontent, they being the proper Truſtees and Repreſentative Body of the Kingdom, and not the Army; and then would likewiſe the Kingdom acquieſce in them.</p>
+               <p n="8">8. Avoid all things that may breed diſ-union, and liſten to any thing that may promote peace, or tending to a Religious accomodation.</p>
+               <p n="9">9. If they would be more careſul to keep their credit in paiment of the publique faith, then ſolicitous to reward them<g ref="char:EOLhyphen"/>ſelves, t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere would be leſs heart-riſings againſt them: Take heed of cutting too large thongs, neither ſlay the poor mans Ewe-Lamb.</p>
+            </div>
+            <div n="4" type="part">
+               <head>4. <hi>Means to put an end to all our Troubles.</hi>
+               </head>
+               <p n="1">1. Let us break off our ſins by righteouſneſſe, and our ini<g ref="char:EOLhyphen"/>quities by ſhewing mercy, for they are cauſe of all our troubles, Corrupt Councellours and Stateſ-men have ſlain their thou<g ref="char:EOLhyphen"/>ſands, but our ſins their ten thouſands.</p>
+               <p n="2">2. Let every one of us in particular ſeek the Lord, call upon him, and wreſtle with him by prayer, for ſetling Peace and Truth, and let both Presbyterian and Independent joyntly and ſolemnly ſeek the Lord in publique, for his direction and bleſ<g ref="char:EOLhyphen"/>ſing, that however our opinions differ, our affections may bee one for God; like a wiſe Father, if he ſee his children altoge<g ref="char:EOLhyphen"/>ther by the ears, will never leave laſhing till hee make them agree.</p>
+               <p n="3">3. Let the difference be publickly debated, by men of moderate ſpirits, able and Godly, that the Kingdom may re<g ref="char:EOLhyphen"/>ceive ſatisfaction.</p>
+               <p n="4">4. Every one deny himſelf, Let all Eſtates, King, Parlia<g ref="char:EOLhyphen"/>ment, Army and City too, ſmite upon the thigh, all confeſting their miſ-treadings, for ſo long as each ſtands upon his own Juſtification, there can be no true Peace.</p>
+               <p>1. <hi>For the King.</hi>
+               </p>
+               <p>None can deny that his doings have been deſtructive;
+<pb n="14" facs="tcp:116178:9"/>
+the ſad ſtories whereof, may be yet read in lines of Blood.</p>
+               <p>2. <hi>The Army.</hi>
+               </p>
+               <p>However happily owned by the Parliament ſince their re<g ref="char:EOLhyphen"/>fuſing to disband, &amp;c. although the moſt renowned in the Chri<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ian world: I beleeve no age can produce ſo many ſum<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and trophi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Honour in ſo ſhort a time as they; yet this cannot be reckoned leſſe then a digreſſion.</p>
+               <p>3. <hi>The City extreamly too blame</hi>
+               </p>
+               <p>In permitting it not countenancing that miſchievous com<g ref="char:EOLhyphen"/>bination and ingagement, that horrid ryot and violence upon the Parliament, neither puniſhed, nor declared againſt: As alſo in outing the Militia, and their Commands, their Indepen<g ref="char:EOLhyphen"/>dent brethren, who had been faithfull and active in worſt times.</p>
+               <p>4. <hi>The Parliament.</hi>
+               </p>
+               <p n="1">1. In ſleighting ſuch an Army, who under God, were their and the Kingdoms deliverers, endeavouring their diſ<g ref="char:EOLhyphen"/>banding, before ſufficient proviſion, either for Pay, Indempni<g ref="char:EOLhyphen"/>ty, or Tender Conſcience.</p>
+               <p n="2">2. In pleading a Force, ſome of them ſaying they were for<g ref="char:EOLhyphen"/>ced to Vote: a ſhameful plea for any man intruſted with a Kingdom: Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcience certainly cannot be compell'd; were the ſword at the breſt, a man ought rather loſe his life then be<g ref="char:EOLhyphen"/>tray a Kingdom: if a man could not ſit without apparent ha<g ref="char:EOLhyphen"/>z<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d of life, he were better of the two, proteſt and withd<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw: but if there come li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e or death, he ought to ſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak his Conſci<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>. Now if all this would c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe out a Committee of able, godly, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, conſiderable m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, confeſs all their failings, and let their buſineſs be onely to accomodate, uſing <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe fore<g ref="char:EOLhyphen"/>going <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, of Faſting, Prayer, Repen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance. &amp;c. I am con<g ref="char:EOLhyphen"/>ſident a ſhort and ſeaſonable period would be put to all our Troubles.</p>
+               <p n="5">5. Let after all this proviſion be made, if both parties agree
+<pb n="15" facs="tcp:116178:9"/>
+not, for the diſſenting: What though they cannot joyn with us in our Diſcipline, cannot we allow our own Country-men as much priviledg as the Dutch and French had in the Biſhops daies, whoſe diſcipline ever differed from ours? That which is of God will ſtand, if not, it will undoubtedly fall.</p>
+            </div>
+            <div type="part">
+               <head>Laſtly, <hi>Short and ſeaſonable advice to the ſuffer<g ref="char:EOLhyphen"/>ing Party, whether Presbyterian or Independent.</hi>
+               </head>
+               <p n="1">1. Take heed of ſuffering as an evil doer, and then be not at all troubled, it is and hath been the portion of the moſt precious, to be evilly entreated: neither art thou alone.</p>
+               <p n="2">2. Be comforted in that God is the avenger of the oppreſſed, neither do extremes laſt long.</p>
+               <p n="3">3. Be comforted that thou haſt diſcharged a good Conſci<g ref="char:EOLhyphen"/>ence while entruſted.</p>
+               <p n="4">4. Let this thy condition be ſo far from cauſing thee to take part with malignants, which thy corrupt heart will be apt to, that it cauſe thee to walk more cloſely and circumſpectly with God; and let patience have its perfect work.</p>
+               <p n="5">5. Be not perplexed for that providences are promiſcuous, or for that Gods diſpenſations are miſterious, in that, notwith<g ref="char:EOLhyphen"/>ſtanding all our expence of Treaſure and Blood, after ſo much wraſtling with God in publique and private, our hopes of Re<g ref="char:EOLhyphen"/>formation is ſo much clouded, but honour God in ſtaying thy heart upon him in moſt unſetled times, yea even in the dark, who is able to bring light out of darknes, life out of death, nay heaven out of hell: conſider he that is faithful hath promiſed, no croſſe occurrences can alter his purpoſe: He that preferred <hi>Joſeph</hi> by the priſon, Led <hi>Iſrael</hi> to Canaan through the Sea, Created all things of nothing, can, nay doubtleſſe will, after a while exerciſe of our Faith and Patience in the wilderneſſe of our unhappy diviſions and diſtractions, bring us to a bleſſed Land flowing with milk and hony of peace and truth. Yet will he give us pure Ordinances, perfect the work of Reformation; yet will he ſet his Son upon his holy hill of Sion, It is good to ſee Sions beauty in the very duſt thereof.</p>
+               <p>
+                  <pb n="16" facs="tcp:116178:10"/>
+                  <hi>Object.</hi> If any ſhall object I have pleaded the Presbyterian cauſe more then the Independent.</p>
+               <p>
+                  <hi>Anſw.</hi> 1. I anſwer, At this time there is more need the Presbyterian being moſt deſpicable.</p>
+               <p n="2">2. Time was not many years ſince, when the Independents were as much deſpiſed, when (under God) I was as inſtru<g ref="char:EOLhyphen"/>mentall for their entertainment; I deſire to look upon the ſuffering party whichſoever, deſiring to heal and compoſe, not to make wider the wound.</p>
+               <p>Thus having freely unboweld my ſelf, (peradventure not without diſpleaſure on all ſides) ſome will ſay I have ſpoken too much againſt the Army: another that I have wronged the King: others that I have wronged the City: others I have abu<g ref="char:EOLhyphen"/>ſed the Parliament, which is the leaſt of my thoughts in any par<g ref="char:EOLhyphen"/>ticular, I honor them all; only I love them all too well to flat<g ref="char:EOLhyphen"/>ter any: and if every one will but enter into his own heart, and ſmite upon his own thigh, I know none will condemne me. However, if I have come neer the quick, I hope all will conſider that a faithfull Phyſitian takes more care to cure then pleaſe his Patient; neither is he a good Chirurgeon that cannot cut and lance when need is: the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore muſt bee thorowly ſearched leſt skinned over, again putrify: I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I have by this poor <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling and ſtone, ſtruck our Gyant-like j<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ings in the fore-head: I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by this clay and ſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God pleaſe to open our eyes, and in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e our heares to a happy accomodation: i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I have pleaſed my God, and been <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aithfull to my Count<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey, I paſſe not: and if the phyſick be not ſo toothſom, I am ſure it is wholſome; The Lord make it effectuall to the l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſing our un<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>appy di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erences.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>JOHN DOVVNAME.</signed>
+            </closer>
+            <pb facs="tcp:116178:10"/>
+         </div>
+      </back>
+   </text>
+</TEI>
